@@ -1,8 +1,4 @@
 # NSN...
-Scattering properties and signatures of entanglement in composite normal & superconducting nanowires (https://www.sciencedirect.com/science/article/abs/pii/S0921452621007493)
-
-Required software:<br />
--Mathematica12.0 (or greater)<br />
 
 scattering_matrix_arbitrary_number_of_segments<br />
 -software used to compute the scattering matrix of a nanowire with an arbitrary number of normal and super conducting segments<br />
